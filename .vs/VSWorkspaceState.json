@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApplication1",
+    "\\WebApplication1\\WebApplication1",
+    "\\WebApplication1\\WebApplication1\\bin",
+    "\\WebApplication1\\WebApplication1\\bin\\Debug",
+    "\\WebApplication1\\WebApplication1\\bin\\Debug\\netcoreapp3.1",
+    "\\WebApplication1\\WebApplication1\\obj",
+    "\\WebApplication1\\WebApplication1\\obj\\Debug",
+    "\\WebApplication1\\WebApplication1\\obj\\Release",
+    "\\WebApplication1\\WebApplication1\\Properties"
   ],
+  "SelectedNode": "\\WebApplication1\\WebApplication1\\obj\\Release",
   "PreviewInSolutionExplorer": false
 }
