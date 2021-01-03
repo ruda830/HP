@@ -9,3 +9,4 @@ git global設定で username emailをgithub上のモノと同じに
 branchの練習
 local上でbranch_first_localを作製。これ上でhello.txtを新たに追加。
 →プッシュしたところ、リモート上でbranch_first_localが作製され、更新された。
+→slnx.sqliteのせいでmerge出来ないと言われたので、branch_first_localをベースにbranch_second_localを作り、branch_first_local上でREADMEを付け加えた。
