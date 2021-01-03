@@ -7,4 +7,5 @@ git global設定で username emailをgithub上のモノと同じに
 
 (2020/1/3)
 branchの練習
-branch_first_localを作製。これ上でhello.txtを新たに追加。
+local上でbranch_first_localを作製。これ上でhello.txtを新たに追加。
+→プッシュしたところ、リモート上でbranch_first_localが作製され、更新された。
