@@ -27,7 +27,7 @@ local上でbranch_first_localを作製。これ上でhello.txtを新たに追加
 
 　  
 
-・mainで更新して、branch_second_localで別の更新をした際のmerge
+・mainで更新して、branch_second_localで別の更新をした状況でのmerge  
 branch_second_localにチェックアウトして、この文章を書き足した。
 現状　main:branch_first_localをmergeしてREADMEに書き足した最新状態。
 現状　branch_second_localはbranch_first_localからbranchしてそのまま、リモート上にこのbranchは作られてない。
